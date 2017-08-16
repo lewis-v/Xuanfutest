@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Xuanfu test</string>
+    <string name="tv">设置悬浮测试框的开关</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+</resources>
